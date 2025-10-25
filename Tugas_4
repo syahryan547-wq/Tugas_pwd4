@@ -56,7 +56,7 @@
 </head>
 <body>
 
-  <h1>Latihan Tombol Scroll ke Atas</h1>
+  <h1>Tombol Scroll ke Atas</h1>
   <div class="content">
     <p>Scroll ke bawah untuk melihat tombol muncul...</p>
   </div>
